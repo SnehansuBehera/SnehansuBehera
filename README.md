@@ -19,7 +19,6 @@ Hey folks! I am Snehansu Behera, a B.Tech undergrad at IIIT Kalyani. I am an asp
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='left'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   </a>
 </div>
